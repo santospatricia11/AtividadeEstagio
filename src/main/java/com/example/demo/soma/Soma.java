@@ -10,6 +10,7 @@ public class Soma {
 	for(int i = 0;K<INDICE;i++)
 	{
 
+	
 		K = K + 1;
 
 		SOMA = SOMA + K;
